@@ -16,6 +16,6 @@ let array2 = array1;
 console.log("value of array1 is", array1);
 console.log("value of array2 is", array2);
 array1.push("item3");
-console.log("after array push");
+console.log("afterpushing elements in array1");
 console.log("value of array1 is", array1);
 console.log("value of array2 is", array2);
