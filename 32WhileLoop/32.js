@@ -1,0 +1,15 @@
+const fruits = ["apple","mango","grapes"];
+const fruits2=[];
+i=0;
+// while(i<fruits.length){
+//     console.log(fruits[i]);
+//     i++;
+// }
+
+//clone array in while loop
+
+while(i<fruits.length){
+    fruits2.push(fruits[i].toUpperCase());
+    i++;
+}
+console.log(fruits2);
