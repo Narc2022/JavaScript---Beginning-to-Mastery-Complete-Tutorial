@@ -37,3 +37,5 @@ const persons = {
 console.log(persons["name"]);
 console.log(persons["age"]);
 console.log(persons["hobbies"]);
+
+
